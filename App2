@@ -1,0 +1,6 @@
+pubspec.yaml
+codemagic.yaml
+export_options.plist
+lib/
+ios/
+android/
