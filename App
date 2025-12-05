@@ -1,0 +1,5 @@
+finance_full_app/
+    lib/
+    ios/
+    android/
+    pubspec.yaml
